@@ -1,0 +1,1380 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"rnd",
+				"rndInt"
+			],
+			[
+				"Voxel",
+				"VoxelType"
+			],
+			[
+				"new",
+				"newVBO"
+			],
+			[
+				"m_chunk",
+				"m_currentChunk"
+			],
+			[
+				"lightM",
+				"lightMapXM"
+			],
+			[
+				"tex",
+				"texel"
+			],
+			[
+				"grass",
+				"grassLimit"
+			],
+			[
+				"te",
+				"texelGrass"
+			],
+			[
+				"ex",
+				"ex_height"
+			],
+			[
+				"texe",
+				"texelGrass"
+			],
+			[
+				"KM",
+				"KMatrix"
+			],
+			[
+				"tra",
+				"transpose"
+			],
+			[
+				"deter",
+				"determinant"
+			],
+			[
+				"dete",
+				"determinant"
+			],
+			[
+				"damage",
+				"damageTable"
+			],
+			[
+				"GetH",
+				"GetHealth	Get the health of this unit."
+			],
+			[
+				"game",
+				"GameObject"
+			],
+			[
+				"mMo",
+				"mMovementLength"
+			],
+			[
+				"Col",
+				"Collider2D"
+			],
+			[
+				"mC",
+				"mCanMove"
+			],
+			[
+				"Vec",
+				"Vector3"
+			],
+			[
+				"load",
+				"loadingScreen"
+			],
+			[
+				"loading",
+				"loadingScreen"
+			],
+			[
+				"Pl",
+				"PlayerPrefs"
+			],
+			[
+				"Player",
+				"PlayerPrefs"
+			],
+			[
+				"las",
+				"loadLastLevel"
+			],
+			[
+				"local",
+				"localScale"
+			],
+			[
+				"prefab",
+				"prefabTree"
+			],
+			[
+				"Instan",
+				"Instantiate"
+			],
+			[
+				"get",
+				"getFloorHeight"
+			],
+			[
+				"sw",
+				"switchToRoutine"
+			],
+			[
+				"ena",
+				"enable_sun"
+			],
+			[
+				"Camera",
+				"CameraScript"
+			],
+			[
+				"wea",
+				"weather_script"
+			],
+			[
+				"spr",
+				"spriteSun"
+			],
+			[
+				"W",
+				"WEATHER"
+			],
+			[
+				"cha",
+				"characterScript"
+			],
+			[
+				"Ins",
+				"Instance"
+			],
+			[
+				"We",
+				"Weather"
+			],
+			[
+				"dam",
+				"damageType"
+			],
+			[
+				"mon",
+				"monster_id"
+			],
+			[
+				"Rain",
+				"RainInABottle"
+			],
+			[
+				"V",
+				"Vector3"
+			],
+			[
+				"LevelGen",
+				"LevelGen3"
+			],
+			[
+				"spawn",
+				"spawnCave"
+			],
+			[
+				"haut",
+				"hauteurMainDiff"
+			],
+			[
+				"Power",
+				"PowerDataBaseEnemy"
+			],
+			[
+				"time",
+				"timeFirestorm"
+			],
+			[
+				"PowerD",
+				"PowerDataBaseEnemy"
+			],
+			[
+				"tim",
+				"timeLastFireball"
+			],
+			[
+				"Spa",
+				"SpawnFireballs"
+			],
+			[
+				"fire",
+				"fireballBossData"
+			],
+			[
+				"ma",
+				"maxDrops"
+			],
+			[
+				"pre",
+				"prefabFreezeEffect"
+			],
+			[
+				"start",
+				"startTime"
+			],
+			[
+				"Start",
+				"StartCoroutine"
+			],
+			[
+				"instc",
+				"instance"
+			],
+			[
+				"loca",
+				"localScale"
+			],
+			[
+				"hud",
+				"hudText"
+			],
+			[
+				"hudte",
+				"hudtextGO"
+			],
+			[
+				"damg",
+				"damageOverTime"
+			],
+			[
+				"des",
+				"destroyedOnHit"
+			],
+			[
+				"De",
+				"Default"
+			],
+			[
+				"data",
+				"dataCopy"
+			],
+			[
+				"Vector",
+				"Vector3"
+			],
+			[
+				"off",
+				"offsetX"
+			],
+			[
+				"loa",
+				"loadingBar"
+			],
+			[
+				"Element",
+				"ElementToString"
+			],
+			[
+				"see",
+				"selectedElement"
+			],
+			[
+				"UNITY",
+				"UNITY_WP8"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"Pla",
+				"PlayClipAtPoint"
+			],
+			[
+				"Life",
+				"LifeFlask"
+			],
+			[
+				"close",
+				"closeSelector"
+			],
+			[
+				"sle",
+				"selectorOpen"
+			],
+			[
+				"mov",
+				"movingRight"
+			],
+			[
+				"dir",
+				"direction"
+			],
+			[
+				"in",
+				"instance"
+			],
+			[
+				"Powe",
+				"PowerChooser"
+			],
+			[
+				"pref",
+				"prefabFireball"
+			],
+			[
+				"Cam",
+				"CameraScript"
+			],
+			[
+				"can",
+				"canContinue"
+			],
+			[
+				"chil",
+				"childCount"
+			],
+			[
+				"Object",
+				"ObjectPool"
+			],
+			[
+				"chu",
+				"chunckSize"
+			],
+			[
+				"power",
+				"powerPrefab"
+			],
+			[
+				"pr",
+				"prefab"
+			],
+			[
+				"Objec",
+				"ObjectPool"
+			],
+			[
+				"main",
+				"mainHeight"
+			],
+			[
+				"mosnt",
+				"monsterTable"
+			],
+			[
+				"Con",
+				"ContainsKey"
+			],
+			[
+				"monste",
+				"monster_id"
+			],
+			[
+				"Level",
+				"LevelGen3"
+			],
+			[
+				"noi",
+				"noiseMonsterA"
+			],
+			[
+				"Vecrt",
+				"Vector3"
+			],
+			[
+				"ori",
+				"origineMonsterA"
+			],
+			[
+				"vel",
+				"velocity"
+			],
+			[
+				"current",
+				"currentChunck"
+			],
+			[
+				"cur",
+				"currentChunck"
+			],
+			[
+				"curre",
+				"currentChunck"
+			],
+			[
+				"oldP",
+				"oldPosX"
+			],
+			[
+				"amplitude",
+				"amplitudeTerrain"
+			],
+			[
+				"Vecor",
+				"Vector2"
+			],
+			[
+				"ha",
+				"hauteurCaveDiff"
+			],
+			[
+				"cave",
+				"caveHeightPrevious"
+			],
+			[
+				"amp",
+				"amplitudeCave"
+			],
+			[
+				"fra",
+				"fractalNoise"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"cure",
+				"currentNode"
+			],
+			[
+				"ti",
+				"tileSizeX"
+			],
+			[
+				"tr",
+				"transform"
+			],
+			[
+				"curren",
+				"currentNode"
+			],
+			[
+				"curr",
+				"currentNode"
+			],
+			[
+				"Inter",
+				"InterpolatedNoise"
+			],
+			[
+				"branch",
+				"branchNo"
+			],
+			[
+				"bran",
+				"branchNo"
+			],
+			[
+				"plat",
+				"plateauCompteur"
+			],
+			[
+				"has",
+				"hasBranched"
+			],
+			[
+				"hi",
+				"highestBranch"
+			],
+			[
+				"bar",
+				"branchNo"
+			],
+			[
+				"Abs",
+				"AbstractNode"
+			],
+			[
+				"Cross",
+				"CrossPlatformInput"
+			],
+			[
+				"button",
+				"buttonEnabled"
+			],
+			[
+				"sele",
+				"selectedElement"
+			],
+			[
+				"open",
+				"openSelector"
+			],
+			[
+				"env",
+				"envconv"
+			],
+			[
+				"tai",
+				"taille_envconv"
+			],
+			[
+				"cNom",
+				"cNomImgEcrite"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 8545,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "Packages/MSBuild/MSBuild.sublime-build",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+			[
+				"glsl",
+				"Set Syntax: GLSL"
+			],
+			[
+				"ssgl",
+				"Set Syntax: GLSL"
+			],
+			[
+				"isntal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"Package Control: d",
+				"Package Control: Disable Package"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"build",
+				"Build: Debug Configuration"
+			],
+			[
+				"inde",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"ssjs",
+				"Set Syntax: JSON"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"reint",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ssc",
+				"Set Syntax: C"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ending",
+				"Line Ending to all views: Windows"
+			],
+			[
+				"endin",
+				"Line Ending: Windows"
+			],
+			[
+				"endn",
+				"Line Ending: Windows"
+			],
+			[
+				"reind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"sslua",
+				"Set Syntax: Lua Dota"
+			],
+			[
+				"ssun",
+				"Set Syntax: Unity C#"
+			],
+			[
+				"control list",
+				"Package Control: List Packages"
+			],
+			[
+				"packa",
+				"Package Control: Disable Package"
+			],
+			[
+				"package",
+				"Preferences: Browse Packages"
+			],
+			[
+				"control ",
+				"Package Control: List Packages"
+			],
+			[
+				"convta",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"conv",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"convtab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convTab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"convo",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"contab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"pack",
+				"Package Control: Disable Package"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"comm",
+				"Toggle Block Comment"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Enable Package"
+			],
+			[
+				"side",
+				"View: Toggle Side Bar"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 168.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/F/Programmation/web/kelthalas.github.io"
+	],
+	"file_history":
+	[
+		"/C/Users/Antoine/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/Users/Antoine/AppData/Roaming/Sublime Text 3/Packages/User/Side Bar.sublime-settings",
+		"/C/Users/Antoine/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Antoine/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/F/Programmation/web/kelthalas.github.io/portfolio.sublime-workspace",
+		"/F/Programmation/web/kelthalas.github.io/portfolio.sublime-project",
+		"/F/Programmation/unity/serious-game-gg/build/Sources.txt",
+		"/C/Users/Antoine/AppData/Local/Temp/Temp1_Rapport.zip/Rapport.html",
+		"/F/Programmation/cpp/minecraft/src/world/0-4-1",
+		"/F/Programmation/cpp/minecraft/src/world/1-5-1",
+		"/F/Applications/procurement/Settings.xml",
+		"/F/Programmation/cpp/minecraft/src/biomes/BiomeMap.h",
+		"/F/Programmation/cpp/minecraft/src/LightManager.h",
+		"/F/Programmation/cpp/minecraft/src/main.cpp",
+		"/F/Programmation/cpp/minecraft/src/libnoise/interp.h",
+		"/F/Programmation/cpp/minecraft/src/shaders/wireframeBox.ps",
+		"/F/Programmation/cpp/minecraft/src/libnoise/basictypes.h",
+		"/F/Programmation/cpp/minecraft/src/biomes/ChunkGenerator.h",
+		"/F/Programmation/cpp/minecraft/src/shaders/water.ps",
+		"/F/Programmation/cpp/minecraft/src/shaders/water.vs",
+		"/F/Programmation/cpp/minecraft/src/shaders/waterPostProcess.ps",
+		"/F/Programmation/cpp/minecraft/src/wireframebox.cpp",
+		"/F/Programmation/cpp/minecraft/src/gestionnaire.qrc",
+		"/F/Programmation/cpp/minecraft/src/LightManager.cpp",
+		"/F/Programmation/cpp/minecraft/src/chunkmanager.cpp",
+		"/F/Programmation/cpp/minecraft/src/minecraft.pro",
+		"/F/Programmation/cpp/minecraft/src/chunk.h",
+		"/F/Programmation/cpp/minecraft/src/save.cpp",
+		"/F/Programmation/cpp/minecraft/src/save.h",
+		"/F/Programmation/cpp/minecraft/src/shaders/render.vs",
+		"/F/Programmation/cpp/minecraft/src/shaders/render.ps",
+		"/F/Programmation/cpp/minecraft/src/.gitignore",
+		"/F/Programmation/cpp/handmade_hero/code/handmade.h",
+		"/F/Programmation/cpp/minecraft/src/coords.h",
+		"/F/Programmation/cpp/minecraft/src/chunkmanager.h",
+		"/F/Programmation/cpp/minecraft/src/minecraft.vcxproj",
+		"/f/programmation/cpp/minecraft/src/libnoise/module/modulebase.h",
+		"/f/programmation/cpp/minecraft/src/libnoise/module/const.h",
+		"/F/Programmation/cpp/minecraft/src/minecraft.sublime-project",
+		"/F/Programmation/cpp/minecraft/src/debug/chunkmanager.obj",
+		"/C/Users/Antoine/AppData/Roaming/Sublime Text 3/Packages/User/SublimeLinter.sublime-settings",
+		"/C/Users/Antoine/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/Antoine/AppData/Roaming/Sublime Text 3/Installed Packages/MSBuild/MSBuild.sublime-build",
+		"/C/Program Files (x86)/MSBuild/Microsoft.Cpp/v4.0/V110/Microsoft.Cpp.Platform.targets",
+		"/F/Programmation/cpp/minecraft/src/camera.cpp",
+		"/F/Programmation/cpp/minetest/src/constants.h",
+		"/F/Programmation/cpp/minetest/src/emerge.h",
+		"/F/Programmation/cpp/minetest/src/map.h",
+		"/F/Programmation/cpp/minetest/src/voxel.cpp",
+		"/F/Programmation/cpp/minetest/src/voxel.h",
+		"/F/Programmation/cpp/minetest/src/wieldmesh.cpp",
+		"/F/Programmation/cpp/minetest/src/version.cpp",
+		"/F/Programmation/cpp/minetest/src/map.cpp",
+		"/F/Programmation/cpp/minetest/src/main.cpp",
+		"/F/Programmation/cpp/minetest/src/emerge.cpp",
+		"/F/Programmation/cpp/minetest/src/event_manager.h",
+		"/F/Programmation/cpp/minetest/src/mapblock_mesh.cpp",
+		"/F/Programmation/cpp/minetest/src/mapblock.cpp",
+		"/F/Programmation/cpp/minetest/src/irrlichttypes_bloated.h",
+		"/F/Programmation/cpp/minetest/src/ban.cpp",
+		"/F/Programmation/cpp/minetest/src/content_nodemeta.cpp",
+		"/F/Programmation/cpp/minetest/src/content_object.h",
+		"/F/Programmation/cpp/minetest/src/camera.cpp",
+		"/F/Programmation/cpp/minetest/src/nodedef.h",
+		"/F/Programmation/cpp/minetest/src/mapgen.h",
+		"/F/Programmation/cpp/minetest/src/mapgen_v7.h",
+		"/F/Programmation/cpp/minetest/src/noise.cpp",
+		"/F/Programmation/cpp/minetest/src/mapgen_v7.cpp",
+		"/F/Programmation/cpp/minetest/src/cavegen.cpp",
+		"/F/Programmation/cpp/minetest/src/mapblock.h",
+		"/F/Programmation/cpp/minetest/src/mapnode.h",
+		"/F/Programmation/cpp/minetest/src/shader.cpp",
+		"/F/Programmation/cpp/minetest/src/light.h",
+		"/F/Programmation/cpp/minetest/src/light.cpp",
+		"/F/Programmation/cpp/minetest/src/mapnode.cpp",
+		"/F/Programmation/cpp/minetest_10-10-24_16-33-41_wonderful/src/mapnode.h",
+		"/F/Programmation/cpp/minetest_10-10-24_16-33-41_wonderful/src/map.cpp",
+		"/F/Programmation/cpp/minetest_10-10-24_16-33-41_wonderful/src/light.h",
+		"/F/Programmation/cpp/minetest_10-10-24_16-33-41_wonderful/src/mapblock.cpp",
+		"/F/Programmation/cpp/minetest_10-10-24_16-33-41_wonderful/src/utility.h",
+		"/F/Programmation/cpp/minetest_10-10-24_16-33-41_wonderful/src/common_irrlicht.h",
+		"/F/Programmation/cpp/agent/agent-terrain-gen/src/shaders/shader.vert",
+		"/F/Programmation/cpp/agent/agent-terrain-gen/src/shaders/shader.frag",
+		"/F/temp/motiv gamebakers.txt",
+		"/F/temp/motiv casualbox.txt",
+		"/F/temp/HybridExample/Shaders/RL/Basic.ray",
+		"/F/temp/HybridExample/Shaders/RL/Basic.vert",
+		"/F/temp/HybridExample/Shaders/RL/Hybrid.frame",
+		"/F/Programmation/web/kelthalas.github.io/agentTerrain.html",
+		"/F/Applications/procurement - std/Settings.xml",
+		"/F/Programmation/cpp/minecraft/src/meshgenerator.cpp",
+		"/C/Users/Antoine/.gitignore",
+		"/C/Users/Antoine/.gitignore_global",
+		"/C/Users/Antoine/AppData/Local/Temp/Temp1_agent-terrain-gen-debug.zip/agent-terrain-gen-debug/README.md",
+		"/C/Program Files (x86)/novint/HDAL_SDK_2.1.3/examples/Basic/src/haptics.cpp",
+		"/F/Applications/procurement/ForumExportTemplate.txt",
+		"/C/Program Files (x86)/novint/HDAL_SDK_2.1.3/examples/Basic/src/gshaptics.cpp",
+		"/C/Program Files (x86)/novint/HDAL_SDK_2.1.3/examples/Basic/src/haptics.h",
+		"/C/Users/Antoine/AppData/Local/Temp/Temp1_$Falcon Wrapper Source.zip/wrapper.cpp",
+		"/C/Users/Antoine/AppData/Local/Temp/Temp1_$Falcon Wrapper Source.zip/haptics.cpp",
+		"/C/Users/Antoine/AppData/Local/Temp/Temp1_$Falcon Wrapper Source.zip/stdafx.h",
+		"/C/Users/Antoine/AppData/Local/Temp/Temp1_$Falcon Wrapper Source.zip/stdafx.cpp",
+		"/C/Users/Antoine/AppData/Local/Temp/Temp1_$Falcon Wrapper.zip/Haptics.cs",
+		"/F/Programmation/web/kelthalas.github.io/galvatronGame.html",
+		"/F/Programmation/unity/retrogamejam2/build/web/galvatronGame.html",
+		"/F/Programmation/web/kelthalas.github.io/index.html",
+		"/F/Programmation/web/kelthalas.github.io/repossessGame.html",
+		"/F/Programmation/love/HNNG/HNNG_1.2/controls.settings",
+		"/F/Programmation/web/kelthalas.github.io/repossess.html",
+		"/F/Programmation/unity/retrogamejam2/build/web/web.html",
+		"/F/Programmation/unity/GGJ2014_1.2/GGJ2014/build/web/web.html",
+		"/F/temp/motiv swing.txt",
+		"/G/Program Files (x86)/Steam/steamapps/common/Starbound/win32/assets/terrain/surface/mountainoussurface.terrain",
+		"/J/debrissurface.terrain",
+		"/J/canyon.canyon",
+		"/F/Programmation/unity/realitevirtuelle-M2/unity/Assets/Scripts/Shooter.cs",
+		"/F/Programmation/cpp/agent/agent-terrain-gen/src/temp_conf",
+		"/G/Program Files (x86)/Steam/steamapps/common/Starbound/win32/assets/biomes/surface/volcanic/volcanic.surfacebiome",
+		"/F/Programmation/cpp/handmade_hero/handmade_hero_day_014_source/code/linux_handmade.cpp",
+		"/F/Programmation/cpp/handmade_hero/handmade_hero_day_014_source/code/win32_handmade.h",
+		"/F/Programmation/cpp/handmade_hero/handmade_hero_day_014_source/code/win32_handmade.cpp",
+		"/F/Programmation/cpp/handmade_hero/handmade_hero_day_014_source/code/handmade.h",
+		"/F/Programmation/cpp/handmade_hero/handmade_hero_day_014_source/code/handmade.cpp",
+		"/F/Programmation/mdj/tp/tp6/shaders/terrainShader.frag",
+		"/F/Programmation/cpp/handmade_hero/handmade_hero_day_014_source/license.txt",
+		"/F/Programmation/mdj/tp/tp6/shaders/terrainShader.vert",
+		"/F/Programmation/cpp/agent/agent-terrain-gen/.gitignore",
+		"/F/Programmation/cpp/agent/agent-terrain-gen/src/temp_conf_old"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"x",
+			"unlightedSun",
+			"GetChunkPosFromVoxelPos",
+			"voxelCoordsToChunkCoords",
+			"getIndexInChunkData",
+			"VoxelManipulator::VoxelManipulator",
+			"VoxelManipulator",
+			"ManualMapVoxelManipulator",
+			"BlockMakeData",
+			"Make",
+			"unspreadLight",
+			"unSpreadLight",
+			"unspreadLight",
+			"unLightNeighbors",
+			"getNode",
+			"lightLevel",
+			"in",
+			"out",
+			"out_color",
+			"    \"",
+			"\\n",
+			"\"\n",
+			"\"",
+			"    \"",
+			"\\n",
+			"jpg",
+			"png",
+			"x",
+			"int",
+			"dimensions",
+			"10000",
+			");\n",
+			"copy",
+			"bFor",
+			"max_atta",
+			"17",
+			"json",
+			"2",
+			"C:\\",
+			"DEPTH_OF_FIELD_QULITY",
+			"CharacterController",
+			":Library",
+			"<path-to-Unity-folder>",
+			"mantle",
+			"LayerMask",
+			"	 ",
+			"CheatMenu",
+			"GameObject",
+			"stay",
+			"yield return ",
+			"return",
+			"temp",
+			"changeToRefresh",
+			"type",
+			"count++;",
+			"Random.value",
+			"LoadLevel",
+			"LifeFlask",
+			"\"LifeFlask\"",
+			"+ 1.5f",
+			"haut",
+			"characterScript.canMove = false;",
+			"prefab",
+			"StartCoroutine",
+			"yield break;",
+			"IEnumerator",
+			"if(anim)\n					env.addAnimator(anim);",
+			"CameraScript",
+			"Sun",
+			"un",
+			"GameObject.Find(\"Main Camera\")",
+			"void",
+			"Sun",
+			"Snow",
+			"now",
+			"sun",
+			"Sun",
+			"snow",
+			"Snow",
+			"rain",
+			"Rain",
+			"[SerializeField]",
+			"Fire",
+			"firestormData",
+			"ball",
+			"fireballBoss",
+			"ExempleSpecial",
+			"fireball",
+			"Fireball",
+			"fireball",
+			"powerE",
+			"addAnimator",
+			"prefab",
+			"flame",
+			"Flame",
+			"flame",
+			"int",
+			"applyEffect",
+			"proj.position",
+			"waterballData",
+			"character",
+			"setdataCopy",
+			"data",
+			"Data",
+			"data",
+			"Data",
+			"data",
+			"Data",
+			"data",
+			"Fire",
+			".gameObject",
+			"GameObject",
+			"Fire",
+			"if(self != null)\n			self.SetActive(true);\n		else",
+			"GameObject self = null",
+			"mMethod",
+			"showElementIcon();",
+			"LifeFlask",
+			"Life",
+			"Fire",
+			"fireballData",
+			"data",
+			"unloadChunck",
+			"));",
+			"Instantiate",
+			"hauteurCaveDiff",
+			"amp2",
+			"amp"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"GetVoxelRelPos",
+			"GetChunkPosFromVoxelPos",
+			"IndexVoxelRelPos",
+			"",
+			"\n",
+			"",
+			"\\t",
+			" )",
+			"\\t",
+			".SetActive($1);",
+			"",
+			";\\n}",
+			"",
+			"\\t",
+			"$1\\n$2"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 8545,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6916,
+								6916
+							]
+						],
+						"settings":
+						{
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"incomplete_sync": null,
+							"remote_loading": false,
+							"synced": false,
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1620.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 177.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"project": "portfolio.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"lighmah",
+				"LightManager.h"
+			],
+			[
+				"chugenh",
+				"biomes\\ChunkGenerator.h"
+			],
+			[
+				"lightm",
+				"LightManager.cpp"
+			],
+			[
+				"map",
+				"biomes\\BiomeMap.cpp"
+			],
+			[
+				"biom",
+				"biomes\\BiomeMap.h"
+			],
+			[
+				"biomemap",
+				"biomes\\BiomeMap.cpp"
+			],
+			[
+				"chunge",
+				"biomes\\ChunkGenerator.cpp"
+			],
+			[
+				"render",
+				"shaders\\render.vs"
+			],
+			[
+				"water",
+				"shaders\\water.ps"
+			],
+			[
+				".pro",
+				"minecraft.pro"
+			],
+			[
+				"chuama",
+				"chunkmanager.cpp"
+			],
+			[
+				"lightma",
+				"LightManager.cpp"
+			],
+			[
+				"save",
+				"save.cpp"
+			],
+			[
+				"chma",
+				"chunkmanager.cpp"
+			],
+			[
+				"chunama",
+				"chunkmanager.cpp"
+			],
+			[
+				"chu",
+				"chunk.h"
+			],
+			[
+				"chunkh",
+				"chunk.h"
+			],
+			[
+				"coords",
+				"coords.h"
+			],
+			[
+				"chuh",
+				"chunk.h"
+			],
+			[
+				"limacpp",
+				"LightManager.cpp"
+			],
+			[
+				"voe",
+				"voxel.h"
+			],
+			[
+				"voxe",
+				"voxel.cpp"
+			],
+			[
+				"map.h",
+				"map.h"
+			],
+			[
+				"eme",
+				"emerge.h"
+			],
+			[
+				"const",
+				"constants.h"
+			],
+			[
+				"life",
+				"Interface\\Characters\\Life.cs"
+			],
+			[
+				"leve",
+				"LevelGen3.cs"
+			],
+			[
+				"le",
+				"LevelGen3.cs"
+			],
+			[
+				"men",
+				"Menu.cs"
+			],
+			[
+				"me",
+				"Menu.cs"
+			],
+			[
+				"level",
+				"LevelGen3.cs"
+			],
+			[
+				"ai",
+				"Interface\\Enemy\\AI.cs"
+			],
+			[
+				"cha",
+				"Interface\\Characters\\Character.cs"
+			],
+			[
+				"",
+				"LevelGen3.cs"
+			],
+			[
+				"inv",
+				"Interface\\Characters\\Inventory.cs"
+			],
+			[
+				"ui",
+				"F:\\Programmation\\unity\\evolved\\Assets\\NGUI\\Scripts\\UI\\UI2DSprite.cs"
+			],
+			[
+				"fire",
+				"F:\\Programmation\\unity\\evolved\\Assets\\FireElementalFightManager.cs"
+			],
+			[
+				"f",
+				"F:\\Programmation\\unity\\evolved\\Assets\\FireElementalFightManager.cs"
+			],
+			[
+				"re",
+				"RepeatButton.cs"
+			],
+			[
+				"dat",
+				"Interface\\Powers\\PowerDataBaseEnemy.cs"
+			],
+			[
+				"pick",
+				"Interface\\Objects\\Pickup.cs"
+			],
+			[
+				"iven",
+				"Interface\\Characters\\Inventory.cs"
+			],
+			[
+				"po",
+				"F:\\Programmation\\unity\\evolved\\Assets\\Scripts\\Interface\\Powers\\Power.cs"
+			],
+			[
+				"databa",
+				"F:\\Programmation\\unity\\evolved\\Assets\\Scripts\\Interface\\Powers\\PowerDataBase.cs"
+			],
+			[
+				"fre",
+				"F:\\Programmation\\unity\\evolved\\Assets\\Scripts\\SpecialEffects\\FreezeEffect.cs"
+			],
+			[
+				"data",
+				"F:\\Programmation\\unity\\evolved\\Assets\\Scripts\\Interface\\Powers\\PowerDataBase.cs"
+			],
+			[
+				"ch",
+				"F:\\Programmation\\unity\\evolved\\Assets\\Scripts\\Interface\\Characters\\Character.cs"
+			],
+			[
+				"user",
+				"F:\\Programmation\\unity\\evolved\\Assets\\Scripts\\Interface\\Characters\\UserControl.cs"
+			],
+			[
+				"lif",
+				"F:\\Programmation\\unity\\evolved\\Assets\\Scripts\\Interface\\Characters\\Life.cs"
+			],
+			[
+				"char",
+				"F:\\Programmation\\unity\\evolved\\Assets\\Scripts\\Interface\\Characters\\Character.cs"
+			],
+			[
+				"fla",
+				"F:\\Programmation\\unity\\evolved\\Assets\\Scripts\\SpecialEffects\\FlameEffect.cs"
+			],
+			[
+				"flam",
+				"F:\\Programmation\\unity\\evolved\\Assets\\Scripts\\SpecialEffects\\FlameEffect.cs"
+			],
+			[
+				"pro",
+				"F:\\Programmation\\unity\\evolved\\Assets\\Scripts\\Interface\\Powers\\Projectile.cs"
+			],
+			[
+				"use",
+				"F:\\Programmation\\unity\\evolved\\Assets\\Scripts\\Interface\\Characters\\UserControl.cs"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"F:\\Programmation\\cpp\\minetest\\src\\minetest.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 210.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
